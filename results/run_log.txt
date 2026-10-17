@@ -1,0 +1,121 @@
+[06:34:16] === Breast Cancer Wisconsin (Diagnostic): 569 rows, 30 features, prevalence 0.373
+[06:34:18]   [bc split 42] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:35:30]   [bc split 42] RF: LIME ns=1000 done in 72s
+[06:37:01]   [bc split 42] RF: LIME ns=2000 done in 91s
+[06:39:50]   [bc split 42] RF: LIME ns=5000 done in 169s
+[06:39:51]   [bc split 42] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:40:33]   [bc split 42] XGB: LIME ns=1000 done in 42s
+[06:41:28]   [bc split 42] XGB: LIME ns=2000 done in 56s
+[06:43:09]   [bc split 42] XGB: LIME ns=5000 done in 101s
+[06:43:09] [bc split 42] finished in 533s
+[06:43:10]   [bc split 101] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:43:42]   [bc split 101] RF: LIME ns=5000 done in 32s
+[06:43:42]   [bc split 101] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:44:02]   [bc split 101] XGB: LIME ns=5000 done in 20s
+[06:44:02] [bc split 101] finished in 53s
+[06:44:03]   [bc split 102] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:44:34]   [bc split 102] RF: LIME ns=5000 done in 31s
+[06:44:34]   [bc split 102] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:44:54]   [bc split 102] XGB: LIME ns=5000 done in 19s
+[06:44:54] [bc split 102] finished in 52s
+[06:44:55]   [bc split 103] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:45:26]   [bc split 103] RF: LIME ns=5000 done in 31s
+[06:45:26]   [bc split 103] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:45:45]   [bc split 103] XGB: LIME ns=5000 done in 19s
+[06:45:45] [bc split 103] finished in 51s
+[06:45:46]   [bc split 104] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:46:18]   [bc split 104] RF: LIME ns=5000 done in 31s
+[06:46:18]   [bc split 104] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:46:37]   [bc split 104] XGB: LIME ns=5000 done in 19s
+[06:46:37] [bc split 104] finished in 52s
+[06:46:38]   [bc split 105] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:47:11]   [bc split 105] RF: LIME ns=5000 done in 33s
+[06:47:11]   [bc split 105] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:47:31]   [bc split 105] XGB: LIME ns=5000 done in 19s
+[06:47:31] [bc split 105] finished in 53s
+[06:47:32]   [bc split 106] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:48:04]   [bc split 106] RF: LIME ns=5000 done in 32s
+[06:48:04]   [bc split 106] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:48:23]   [bc split 106] XGB: LIME ns=5000 done in 19s
+[06:48:23] [bc split 106] finished in 52s
+[06:48:24]   [bc split 107] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:48:56]   [bc split 107] RF: LIME ns=5000 done in 32s
+[06:48:56]   [bc split 107] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:49:15]   [bc split 107] XGB: LIME ns=5000 done in 19s
+[06:49:15] [bc split 107] finished in 52s
+[06:49:16]   [bc split 108] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:49:47]   [bc split 108] RF: LIME ns=5000 done in 31s
+[06:49:47]   [bc split 108] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:50:07]   [bc split 108] XGB: LIME ns=5000 done in 20s
+[06:50:07] [bc split 108] finished in 52s
+[06:50:08]   [bc split 109] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:50:41]   [bc split 109] RF: LIME ns=5000 done in 32s
+[06:50:41]   [bc split 109] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:51:02]   [bc split 109] XGB: LIME ns=5000 done in 21s
+[06:51:02] [bc split 109] finished in 54s
+[06:51:03]   [bc split 110] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:51:35]   [bc split 110] RF: LIME ns=5000 done in 32s
+[06:51:35]   [bc split 110] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:51:55]   [bc split 110] XGB: LIME ns=5000 done in 19s
+[06:51:55] [bc split 110] finished in 53s
+[06:51:55] === Pima Indians Diabetes (MASS): 532 rows, 7 features, prevalence 0.333
+[06:52:01]   [pima split 42] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:52:50]   [pima split 42] RF: LIME ns=1000 done in 49s
+[06:53:58]   [pima split 42] RF: LIME ns=2000 done in 68s
+[06:55:59]   [pima split 42] RF: LIME ns=5000 done in 121s
+[06:55:59]   [pima split 42] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:56:18]   [pima split 42] XGB: LIME ns=1000 done in 18s
+[06:56:42]   [pima split 42] XGB: LIME ns=2000 done in 25s
+[06:57:25]   [pima split 42] XGB: LIME ns=5000 done in 43s
+[06:57:25] [pima split 42] finished in 331s
+[06:57:27]   [pima split 101] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:57:51]   [pima split 101] RF: LIME ns=5000 done in 23s
+[06:57:51]   [pima split 101] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:58:00]   [pima split 101] XGB: LIME ns=5000 done in 8s
+[06:58:00] [pima split 101] finished in 34s
+[06:58:02]   [pima split 102] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:58:25]   [pima split 102] RF: LIME ns=5000 done in 24s
+[06:58:25]   [pima split 102] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:58:34]   [pima split 102] XGB: LIME ns=5000 done in 9s
+[06:58:34] [pima split 102] finished in 34s
+[06:58:36]   [pima split 103] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:59:00]   [pima split 103] RF: LIME ns=5000 done in 24s
+[06:59:00]   [pima split 103] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:59:09]   [pima split 103] XGB: LIME ns=5000 done in 9s
+[06:59:09] [pima split 103] finished in 35s
+[06:59:11]   [pima split 104] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[06:59:34]   [pima split 104] RF: LIME ns=5000 done in 23s
+[06:59:35]   [pima split 104] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[06:59:43]   [pima split 104] XGB: LIME ns=5000 done in 8s
+[06:59:43] [pima split 104] finished in 34s
+[06:59:45]   [pima split 105] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[07:00:09]   [pima split 105] RF: LIME ns=5000 done in 24s
+[07:00:09]   [pima split 105] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[07:00:17]   [pima split 105] XGB: LIME ns=5000 done in 8s
+[07:00:17] [pima split 105] finished in 35s
+[07:00:20]   [pima split 106] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[07:00:43]   [pima split 106] RF: LIME ns=5000 done in 23s
+[07:00:43]   [pima split 106] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[07:00:52]   [pima split 106] XGB: LIME ns=5000 done in 8s
+[07:00:52] [pima split 106] finished in 34s
+[07:00:54]   [pima split 107] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[07:01:18]   [pima split 107] RF: LIME ns=5000 done in 24s
+[07:01:18]   [pima split 107] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[07:01:27]   [pima split 107] XGB: LIME ns=5000 done in 9s
+[07:01:27] [pima split 107] finished in 35s
+[07:01:29]   [pima split 108] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[07:01:53]   [pima split 108] RF: LIME ns=5000 done in 24s
+[07:01:53]   [pima split 108] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[07:02:01]   [pima split 108] XGB: LIME ns=5000 done in 8s
+[07:02:01] [pima split 108] finished in 35s
+[07:02:03]   [pima split 109] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[07:02:26]   [pima split 109] RF: LIME ns=5000 done in 22s
+[07:02:26]   [pima split 109] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[07:02:34]   [pima split 109] XGB: LIME ns=5000 done in 8s
+[07:02:34] [pima split 109] finished in 33s
+[07:02:36]   [pima split 110] RF: SHAP done (rerun max|diff| = 0.0e+00)
+[07:03:01]   [pima split 110] RF: LIME ns=5000 done in 24s
+[07:03:01]   [pima split 110] XGB: SHAP done (rerun max|diff| = 0.0e+00)
+[07:03:09]   [pima split 110] XGB: LIME ns=5000 done in 8s
+[07:03:09] [pima split 110] finished in 35s
+[07:03:09] run finished

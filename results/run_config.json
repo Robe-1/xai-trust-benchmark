@@ -1,0 +1,83 @@
+{
+  "config": {
+    "seed": 42,
+    "test_size": 0.25,
+    "lime_ns_list": [
+      1000,
+      2000,
+      5000
+    ],
+    "lime_ns_primary": 5000,
+    "noise_levels": [
+      0.01,
+      0.05,
+      0.1
+    ],
+    "n_draws": 5,
+    "n_random_orders": 20,
+    "K_main": {
+      "bc": 10,
+      "pima": 5
+    },
+    "K_list": {
+      "bc": [
+        5,
+        10,
+        15,
+        30
+      ],
+      "pima": [
+        3,
+        5,
+        7
+      ]
+    },
+    "topk_stab": {
+      "bc": 5,
+      "pima": 3
+    },
+    "sparsity_thresholds": [
+      0.7,
+      0.8,
+      0.9
+    ],
+    "sparsity_main": 0.8,
+    "n_repeats": 10,
+    "repeat_seeds": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "light": {
+      "ns": 5000,
+      "n_draws": 1,
+      "n_random_orders": 10
+    },
+    "bootstrap": 5000,
+    "rf": {
+      "n_estimators": 200
+    },
+    "xgb": {
+      "n_estimators": 200
+    },
+    "n_jobs": 2,
+    "max_instances": null
+  },
+  "python": "3.13.16",
+  "versions": {
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.18.1",
+    "sklearn": "1.9.1",
+    "xgboost": "3.4.1",
+    "shap": "0.53.0",
+    "lime": "unknown"
+  }
+}
